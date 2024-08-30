@@ -39,7 +39,7 @@ characteristics of the dataset.
    means?
 ## 2. PREPARE
 ## Data Storage:
-This public dataset is completely available on the open platform where it stores and consolidates all available datasets for analysis. The specific individual datasets at hand can be obtained at this link below: https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/293/original/walmart_data.csv?1641285094
+This public dataset is completely available on the open platform where it stores and consolidates all available datasets for analysis. The specific individual datasets at hand can be obtained at this link below: <a href ="https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/293/original/walmart_data.csv?1641285094" > Click here <a/>
 ##  Tools Used:
 1. Google_Collab
 ## 3. ACT
